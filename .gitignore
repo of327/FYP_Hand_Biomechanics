@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.vscode/
+*.suo
+Thumbs.db
+.DS_Store
+# Arduino build
+*.hex
+*.elf
+build/
+# OneDrive temp files
+~$*
+# Log data
+*.csv
